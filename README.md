@@ -1,5 +1,6 @@
 ### Hi there 👋
-This is Siri Sure, a second-year undergraduate at IIT Palakkad.
+This is Siri Sure, a Machine learning Enthusiast, currently a second-year undergraduate at IIT Palakkad.
+
 
 I'm intrested in programming.
 
