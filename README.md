@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi Geek!! 👋
 This is Siri Sure, a Machine learning Enthusiast, currently a second-year undergraduate at IIT Palakkad.
 
 
-I'm intrested in programming.
+I'm interested in programming.
 
 Stuff I'm working on:
 1. Facial expression recognition
