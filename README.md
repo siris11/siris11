@@ -1,4 +1,4 @@
-### Hi Geek!! 👋
+### Hi Geek!! 
 This is Siri Sure, a Machine learning Enthusiast, currently a second-year undergraduate at IIT Palakkad.
 
 
