@@ -6,8 +6,8 @@ I'm interested in programming.
 
 Stuff I'm working on:
 1. Facial expression recognition
-2. Face-Detection
-3. Snake game
+2. Large Language Models
+3. NLP
 4. Image-proc
 
 How to reach me: email ID sirisure10@gmail.com
